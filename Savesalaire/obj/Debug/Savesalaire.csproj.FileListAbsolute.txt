@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\bin\Debug\Savesalaire.exe.config
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\bin\Debug\Savesalaire.exe
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\bin\Debug\Savesalaire.pdb
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\obj\Debug\Savesalaire.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\obj\Debug\Savesalaire.Form1.resources
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\obj\Debug\Savesalaire.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\obj\Debug\Savesalaire.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\obj\Debug\Savesalaire.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\obj\Debug\Savesalaire.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\obj\Debug\Savesalaire.exe
+C:\Users\Lenovo\Desktop\balalnce\Savesalaire\Savesalaire\obj\Debug\Savesalaire.pdb
